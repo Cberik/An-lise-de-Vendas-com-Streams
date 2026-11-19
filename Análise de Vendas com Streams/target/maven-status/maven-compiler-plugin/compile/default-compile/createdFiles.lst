@@ -1,0 +1,11 @@
+br\edu\utfpr\LeitorDeVendas.class
+br\edu\utfpr\model\ResumoVendas.class
+br\edu\utfpr\FormaPagamentoConverter.class
+br\edu\utfpr\model\FormaPagamento.class
+br\edu\utfpr\LocalDateConverter.class
+br\edu\utfpr\VendaCsv.class
+br\edu\utfpr\StatusConverter.class
+br\edu\utfpr\model\RankingVendedor.class
+br\edu\utfpr\LeitorDeVendas$AcumuladorDeResumo.class
+br\edu\utfpr\model\Status.class
+br\edu\utfpr\model\Venda.class
